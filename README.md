@@ -3,13 +3,13 @@
 <h3 align="center">A passionate innovator from India, integrating web and app development experience with a strong interest in cybersecurity.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-sam1289&label=Profile%20views&color=0e75b6&style=flat" alt="mr-sam1289" width="20%"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-mathpati&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-mathpati" width="20%"/> </p>
 
-- 🔭 I have completed [ParkHub - Mobile Application](https://github.com/Mr-Sam1289/Park-Hub)
+- 🔭 My recent project was [Social Media Investigative Assistant for Law Enforcement](https://github.com/abhishek-mathpati/social-media-investigative-assistant-for-law-enforcement)
 - 🌱 I’m currently learning **Cyber Security, Ethical Hacking**
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Mr-Sam1289)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/abhishek-mathpati)
 - 💬 Ask me about **Mobile app development, Cybersecurity fundamentals**
-- 📫 How to reach me: **abhisamshek1212@gmail.com**
+- 📫 How to reach me: **abhishekmathpati29@gmail.com**
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1TBEodawmZqcsg2DtlJPOm4wQfdvb1H_F/view?usp=drive_link)
 - ⚡ Fun fact: **"Programmers prefer dark themes because light attracts bugs!"**
 
@@ -42,8 +42,8 @@
 
 <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-sam1289&show_icons=true&locale=en&layout=compact" alt="mr-sam1289" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek-mathpati&show_icons=true&locale=en&layout=compact" alt="abhishek-mathpati" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-sam1289&show_icons=true&locale=en" alt="mr-sam1289" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek-mathpati&show_icons=true&locale=en" alt="mr-sam1289" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-sam1289&" alt="mr-sam1289" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-mathpati&" alt="abhishek-mathpati" /></p>
