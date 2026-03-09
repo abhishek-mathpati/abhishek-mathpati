@@ -42,8 +42,3 @@
 
 <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek-mathpati&show_icons=true&locale=en&layout=compact" alt="abhishek-mathpati" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek-mathpati&show_icons=true&locale=en" alt="mr-sam1289" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-mathpati&" alt="abhishek-mathpati" /></p>
